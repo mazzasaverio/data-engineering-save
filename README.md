@@ -15,6 +15,7 @@ A comprehensive, evolving collection of knowledge, notes, and insights about dat
   - `articles/`: Article summaries and references
   - `papers/`: Academic papers and research
   - `courses/`: Course notes and materials
+  - `interesting-articles/`: Collection of noteworthy articles
 - `personal/`: Personal articles, notes and reflections
 - `assets/`: Images, diagrams, and other media
 - `templates/`: Template files for creating new content
@@ -30,4 +31,4 @@ Use the table of contents in each document and the directory structure to naviga
 
 ## Contributing
 
-This is a personal repository, but suggestions, corrections, and contributions are welcome via pull requests. 
+This is a personal repository, but suggestions, corrections, and contributions are welcome via pull requests.
