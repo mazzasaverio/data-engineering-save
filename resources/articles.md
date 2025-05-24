@@ -1,6 +1,6 @@
 # Interesting Articles
 
-A curated collection of noteworthy articles about data engineering, data science, and related topics.
+A curated collection of noteworthy articles about data engineering and related topics.
 
 ## Data Engineering
 
